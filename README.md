@@ -28,4 +28,4 @@ This project was created as a special digital birthday gift to make someone's da
 
 ## 📌 Author
 
-Created by Akifa Akhtar.
+Created by Technical Akifa.
